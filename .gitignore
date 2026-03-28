@@ -1,0 +1,5 @@
+.env
+ai-code-reviewer/.env
+__pycache__/
+*.html
+ai-code-reviewer/*.html
